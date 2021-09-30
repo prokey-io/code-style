@@ -22,7 +22,7 @@ _maxRowCount: number = 15;
 coinModel: CoinModel;
 _coinName: string;
 ```
-instead of above 🛑 code style, use the following :+1: code style:
+instead of above code style, use the following code style:
 ```
 *** SEPERATE VARIABLES ***
 // Private variables
