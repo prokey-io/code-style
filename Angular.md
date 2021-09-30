@@ -91,6 +91,14 @@ if( condition1 && // comments
 ){
 
 }
+
+OR
+
+if( condition && condition ) {
+  ...
+} else {
+  ...
+}
 ```
 - Better to seperate logics of a functions code using a white line:
 ```
