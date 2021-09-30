@@ -53,7 +53,7 @@ CalculateTxFee(
     );
 
 ```
-- Write comment to explain the code especially when it's seems complex for someone else who is going to join the team or see the code for first time:
+- Write comments and function description to explain the code functionality especially when it's seems complex for someone else who is going to join the team or see the code for first time:
 ```
    /**
    * This function will be called when the input amount changed
